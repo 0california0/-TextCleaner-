@@ -24,11 +24,11 @@ textarea {
     padding: 2px;
     border-radius: 5px;
     overflow: hidden;
-    border-radius: 10px;
 }
 #output {
     background-color: black;
     border: 1px solid grey;
+    border-radius: 10px;
     padding: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;
